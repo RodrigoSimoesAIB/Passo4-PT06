@@ -1,1 +1,26 @@
-
+body {
+  background-color: beige;
+}
+table, th, td {
+  border: 3px solid beige;
+  border-collapse: collapse;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3px;
+  background-color: darksalmon;
+}
+table {
+  border-spacing: 3px
+  width: 100%
+}
+th {
+  font-size: 40px
+}
+td {
+  font-size: 35px
+}
+img {
+  width: 120px;
+  height: 150px;
+}
